@@ -1,0 +1,6 @@
+C:\Users\Harold\Dropbox\001_MIS 517\StudentDirectory\StudentDirectory\obj\Debug\StudentDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Harold\Dropbox\001_MIS 517\StudentDirectory\StudentDirectory\bin\StudentDirectory.dll.config
+C:\Users\Harold\Dropbox\001_MIS 517\StudentDirectory\StudentDirectory\bin\StudentDirectory.dll
+C:\Users\Harold\Dropbox\001_MIS 517\StudentDirectory\StudentDirectory\bin\StudentDirectory.pdb
+C:\Users\Harold\Dropbox\001_MIS 517\StudentDirectory\StudentDirectory\obj\Debug\StudentDirectory.dll
+C:\Users\Harold\Dropbox\001_MIS 517\StudentDirectory\StudentDirectory\obj\Debug\StudentDirectory.pdb
